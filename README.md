@@ -10,8 +10,11 @@ This is the readme file for my Spam Detection Capstone.
 The breakdown of the project is as follows:
 
 1 - Python Notebooks:
+
     - AK_Amazon - CellPhones and Acc Reviews - EDA 1
+    
     - AK_Amazon - CellPhones and Acc Reviews - Modelling 2
+    
     - AK_Amazon - CellPhones and Acc Reviews - Advanced Modelling 3 (Please run on Google Colab due to ML Pipeline and GridSearch)
 
 2 - Data:
