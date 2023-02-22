@@ -12,12 +12,11 @@ The breakdown of the project is as follows:
 1 - Python Notebooks:
 
     - AK_Amazon - CellPhones and Acc Reviews - EDA 1
-    
     - AK_Amazon - CellPhones and Acc Reviews - Modelling 2
-    
     - AK_Amazon - CellPhones and Acc Reviews - Advanced Modelling 3 (Please run on Google Colab due to ML Pipeline and GridSearch)
 
 2 - Data:
+
     - Cell_Phones_and_Accessories.json (original dataset)
     - Cell_data_sampled.csv (first sample - 5% of the original dataset)
     - Spam_sampled (all spam reviews extracted into a csv file)
@@ -33,6 +32,7 @@ The breakdown of the project is as follows:
 		- Please find all the data saved in the Google Drive folder link below (Data is all saved in the Data folder)
 
 3 - Conda environment files:
+
     - base_env.yml (please load this environment for Notebook 1)
     - boosting_env.yml (please load this environment for Notebooks 2 and 3)
 
